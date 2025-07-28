@@ -1,4 +1,4 @@
-<img width="622" height="908" alt="image" src="https://github.com/user-attachments/assets/11ba6046-b2c9-41da-8623-d693e91961ea" />#UDEMY PROFILE CARD ACTIVITY 1
+#UDEMY PROFILE CARD ACTIVITY 1
 
 My first activity from udemy
 
