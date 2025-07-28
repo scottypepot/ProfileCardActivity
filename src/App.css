@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.profile {
+  margin: 0 auto;
+}
+
+.card {
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 1.5rem;
+  display: flex;
+  border: solid black;
+  flex-direction: column;
+  align-items: center;
+  max-width: 45vh;
+}
+
+.name {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.profileimage {
+  max-width: 100%;
+  height: auto;
+}
+.data {
+  display: block;
+}
+
+.skillsList {
+  display: block;
+  width: 100%;
+}
+
+.skills {
+  display: inline-block;
+  border-radius: 7px;
+  font-size: 15px;
+  padding: 4px 10px;
+  margin: 5px 5px;
+}
